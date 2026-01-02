@@ -6,9 +6,18 @@ function Footer() {
     <div className='footer'>
       <p>© 2024 Edusity. All rights reserved.</p>
       <ul>
-        <li>Terms of Services</li>
-        <li>Privacy Policy</li>
-      </ul>
+  <li>
+    <a href="https://github.com/Srijan-soni-dev" target="_blank">
+      Terms of Services
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/Srijan-soni-dev" target="_blank">
+      Privacy Policy
+    </a>
+  </li>
+</ul>
+
     </div>
   )
 }
